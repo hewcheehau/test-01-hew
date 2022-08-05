@@ -1,6 +1,6 @@
 # hewcheehau_test
 
-A new Flutter project.
+Daily income tracker.
 
 ## Getting Started
 
